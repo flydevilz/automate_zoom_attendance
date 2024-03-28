@@ -1,2 +1,2 @@
-# automate_zoom_presence
-Kode python untuk mengautomasi presensi student via ZOOM by email dan nama.
+# Description
+Python code to automate student attendance via ZOOM by email and name.
